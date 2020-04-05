@@ -1,0 +1,30 @@
+Airplane Class
+
+Airodynamics - 3:06:39
+	wings
+		upper camber - top 
+		lower camber - bottom
+		chord - direct line running from leading edge to trailing edge
+		leading edge - front
+		trailing edge - back
+
+		angle of attack - degrees from chord line to direction of the wing
+		critical angle of attack - 
+		parasite drag - drag not associated with production of lift
+			form drag - wheels, antennas, rivets, etc
+			interference drag - intersection of airstreams causing eddys/turbulence
+			skin friction drag - contact of moving air
+		induced drag - 
+		wingtip vortices - spiraling air off the ends of wings
+		wake turbulance - large aircraft's wingtip vortices can last several minutes
+			avoid follwing another aircraft at an altitude within 1000 feet
+			rotate prior to the point at which the proceeding aircraft rotated
+			land after the preceding aircraft touchdown
+			(manuver above and upwind from the preceeding aircraft)
+		Ground effect
+			reduction of induced drag when aircraft comes one winglengths distance from the ground
+	stalls
+		critical angle of attack
+		low speed - lower the airspeed becomes the more the angle of attack must be increased
+		high speed - angle of attack changes abruptly from quite low to very high (example: pulling out of a dive)
+		turning - centrifugal force is added to the aircraft's weight
