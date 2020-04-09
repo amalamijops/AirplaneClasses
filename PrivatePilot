@@ -3,6 +3,7 @@ Airplane Class
 Airodynamics - 3:06:39
 	wings
 		upper camber - top 
+		upper camber - top
 		lower camber - bottom
 		chord - direct line running from leading edge to trailing edge
 		leading edge - front
@@ -10,11 +11,13 @@ Airodynamics - 3:06:39
 
 		angle of attack - degrees from chord line to direction of the wing
 		critical angle of attack - 
+		critical angle of attack -
 		parasite drag - drag not associated with production of lift
 			form drag - wheels, antennas, rivets, etc
 			interference drag - intersection of airstreams causing eddys/turbulence
 			skin friction drag - contact of moving air
 		induced drag - 
+		induced drag -
 		wingtip vortices - spiraling air off the ends of wings
 		wake turbulance - large aircraft's wingtip vortices can last several minutes
 			avoid follwing another aircraft at an altitude within 1000 feet
@@ -28,3 +31,108 @@ Airodynamics - 3:06:39
 		low speed - lower the airspeed becomes the more the angle of attack must be increased
 		high speed - angle of attack changes abruptly from quite low to very high (example: pulling out of a dive)
 		turning - centrifugal force is added to the aircraft's weight
+		FARs Part 1 - defines things
+			Aircraft - Anything that flies
+				Category - airplane/glider/baloon
+				Class - single engine land, multi engine land, multi engince sea, etc
+			VFR - Visual Flight Rules
+			IFR - Instrument Fligt Rules
+			Night - End of civil twilight to the beginning of morning civil twilight
+			PIC - Pilot in Command
+		FARs Part 61 - certification of pilots
+			61.15
+				BAC no more than .04%
+				8 hours bottle to throtle
+				all drug/alchohol incidents must be reported to FAA within 60 days
+			61.23
+				Private pilot - need 3rd class medical
+				valid 24 months (over 40)
+				valid 6o months (under 40)
+			61.31
+				High performance aircraft - Anything over 200 hp
+				Complex airplane - retractable gear, flaps, and a controllable propeller or FADEC
+				Pressurized aircraft - may not operate above 25k feet
+				Tailwheel aircraft -
+			61.56
+				Flight review once ever 24 months
+					1 hour ground 1 hour flight time
+					or wings program
+					or get another certification
+				PIC while carrying passangers
+					in last 90 days must have at least 3 takeoffs and landings
+			61.60
+			61.89
+				student pilots
+					cant carry passengers
+					flying for business or compensation isnt allowed
+					can not fly visability less than 3 miles day or 5 miles night
+					may not fly without visual reference to the surface
+					students are required to adhere to instructors restrictions
+			61.93
+				sudent pilot - 25 mile leash
+				once you have cross country endorsement - 50 miles
+			61.113
+				private pilots may not take more than half the pro rata share
+				private pilots may have the whole flight payed for if it is part of a donation to charity
+			91.3 - PIC authority
+				PIC is directly responsible and is the final authority
+				PIC may deviate from any rule in an emergency to meet that emergency
+				PIC may be required to provide reasoning in writing
+			91.7 - civil aircraft airworthiness
+				must be visable to passangers and crew
+			91.15 - I can throw what I want out of the airplane
+			91.103 - Pre-flight action
+				must check weather
+				fuel requirements
+				alternatives available if hte flight cannot be completed
+				traffic delays advised by ATC
+				required to check the runway lengths at the airport youll use
+			91.113
+				airplanes headed toward each other all turn to the right
+				head on - both aircraft turn to the right
+				overtaking another aircraft - overtake to the right
+				right of way
+					aircraft in distress
+					least manuverable -> most manuverable
+						balloon
+						glider under tow
+						glider
+						airship
+						helicopter
+						microlight
+						airoplane
+					lower airplanes have the right of way or those more committed to land
+					airplanes to the right have the right of way
+			Must be in aircraft at all times
+				A - Airworthiness Certificate
+				R - Registration
+				R - Radio Operators License (outside the US)
+				O - Operating Limitations (POH, Instrument Markings, Placards)
+				W - Weight & Balance
+
+			Emergency Locator Transmitter (ELT)
+				- batteries must be changed after more than 50% of their useful life
+				- may be tested for three audible sweeps in the first 5 minutes of every hour
+
+			Must be working for day VFR flight
+				A - Anti-Collision Lights
+				T - Tachometer
+				O - Oil Pressure Gauge (per engine)
+				M - Magnetic Compas
+				A - Airspeed Indicator
+				T - Temperature Gauge
+				O - Oil Temperature Gauge
+				F - Fuel Gauge (per tank)
+				F - Flotation ("for hire")
+				L - Landing Gear Indicator
+				A - Altimiter
+				M - Manifold Pressure Gage
+				E - ELT
+				S - Seatbelt/Shoulder Harness
+
+				Must be working for night VFR flights
+					F - Fuses
+					L - Landing Light
+					A - Anti Collision Lights
+					P - Position Lights
+					S - Source of Power
